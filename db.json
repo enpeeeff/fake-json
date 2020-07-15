@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "bank_id": 1,
+    "bank_detail": {},
+    "method_data": [
+      {
+        "bank_statement": {}
+      }
+    ]
   }
 }
